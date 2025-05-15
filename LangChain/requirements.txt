@@ -1,0 +1,13 @@
+google-generativeai
+transformers>=4.50.0
+langchain
+langchain-huggingface
+langchain-google-genai
+langchain-ollama
+huggingface-hub
+python-dotenv
+langchain-huggingface
+grandalf
+numpy 
+scikit-learn
+ipykernel
