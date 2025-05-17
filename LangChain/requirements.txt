@@ -11,3 +11,4 @@ grandalf
 numpy 
 scikit-learn
 ipykernel
+RestrictedPython
