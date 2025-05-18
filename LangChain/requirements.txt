@@ -7,8 +7,17 @@ langchain-ollama
 huggingface-hub
 python-dotenv
 langchain-huggingface
+langchain-community
 grandalf
 numpy 
 scikit-learn
 ipykernel
 RestrictedPython
+lxml[html_clean]
+newspaper4k
+bs4
+beautifulsoup4
+reportlab
+pypdf
+unstructured
+unstructured[pdf]
