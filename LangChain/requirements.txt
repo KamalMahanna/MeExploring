@@ -8,6 +8,7 @@ huggingface-hub
 python-dotenv
 langchain-huggingface
 langchain-community
+langchain-experimental
 grandalf
 numpy 
 scikit-learn
@@ -21,3 +22,9 @@ reportlab
 pypdf
 unstructured
 unstructured[pdf]
+tensorflow
+keras
+tf-keras
+IProgress
+sentence-transformers
+xformers
