@@ -28,3 +28,8 @@ tf-keras
 IProgress
 sentence-transformers
 xformers
+langchain-chroma
+tiktoken
+wikipedia
+faiss-cpu
+chromadb
