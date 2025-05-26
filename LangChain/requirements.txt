@@ -33,3 +33,4 @@ tiktoken
 wikipedia
 faiss-cpu
 chromadb
+youtube-transcript-api
