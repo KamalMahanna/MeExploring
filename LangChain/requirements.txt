@@ -1,4 +1,5 @@
 google-generativeai
+google-genai
 transformers>=4.50.0
 langchain
 langchain-huggingface
@@ -34,3 +35,6 @@ wikipedia
 faiss-cpu
 chromadb
 youtube-transcript-api
+jupyter
+notebook
+ipykernel
