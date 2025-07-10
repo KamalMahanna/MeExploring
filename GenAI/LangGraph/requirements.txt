@@ -30,4 +30,7 @@ unstructured
 unstructured[pdf]
 wikipedia
 youtube-transcript-api
+langgraph
+langsmith
+langchain-tavily
 # conda install --channel conda-forge pygraphviz

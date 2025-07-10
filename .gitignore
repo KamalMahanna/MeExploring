@@ -1,3 +1,4 @@
 LangChain/.env
 LangChain/.venv
-LangChain/project_YouTube_QNA/my_chroma_db
+LangChain/project_YouTube_QNA/my_chroma_dbGenAI/LangGraph/__pycache__/
+__pycache__
