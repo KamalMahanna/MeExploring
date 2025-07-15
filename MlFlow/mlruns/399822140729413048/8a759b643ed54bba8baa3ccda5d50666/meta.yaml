@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/399822140729413048/8a759b643ed54bba8baa3ccda5d50666/artifacts
+end_time: 1752218930893
+entry_point_name: ''
+experiment_id: '399822140729413048'
+lifecycle_stage: active
+run_id: 8a759b643ed54bba8baa3ccda5d50666
+run_name: spiffy-frog-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752218930844
+status: 3
+tags: []
+user_id: kamal

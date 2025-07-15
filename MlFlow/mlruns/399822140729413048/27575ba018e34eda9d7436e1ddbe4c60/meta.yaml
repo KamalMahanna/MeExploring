@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/399822140729413048/27575ba018e34eda9d7436e1ddbe4c60/artifacts
+end_time: 1752218718699
+entry_point_name: ''
+experiment_id: '399822140729413048'
+lifecycle_stage: active
+run_id: 27575ba018e34eda9d7436e1ddbe4c60
+run_name: dazzling-goose-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752218718647
+status: 3
+tags: []
+user_id: kamal
