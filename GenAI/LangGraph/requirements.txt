@@ -34,3 +34,5 @@ langgraph
 langsmith
 langchain-tavily
 # conda install --channel conda-forge pygraphviz
+firecrawl-py
+pydantic
